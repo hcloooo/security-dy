@@ -19,6 +19,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="hcloooo &lt;1358646561@qq.com&gt;" />
         <option value="hcloooo" />
       </list>
     </option>
@@ -93,26 +94,43 @@
       <workItem from="1581239319296" duration="1195000" />
       <workItem from="1581307259805" duration="63000" />
       <workItem from="1581396736544" duration="2527000" />
-      <workItem from="1581399309409" duration="514000" />
+      <workItem from="1581399309409" duration="764000" />
     </task>
+    <task id="LOCAL-00001" summary="security-dy">
+      <created>1581400071073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581400071073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="security-dy" />
+    <option name="LAST_COMMIT_MESSAGE" value="security-dy" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1581398524295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581398524295" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1581399987016">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1581400085502">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581399987016" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1581399821752">
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581400085502" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1581400175981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581399821752" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581400175981" />
+    <state x="549" y="257" width="273" height="213" key="Github.ShareDialog" timestamp="1581400245672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="257" width="273" height="213" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1581400245672" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1581398491221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
