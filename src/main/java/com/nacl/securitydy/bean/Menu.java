@@ -1,0 +1,27 @@
+package com.nacl.securitydy.bean;
+
+/**
+ * @author 赵益江
+ * @version 1.0
+ * @date 2020/2/11 0011 13:09
+ */
+public class Menu {
+    private Integer id;
+    private String pattern;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getPattern() {
+        return pattern;
+    }
+
+    public void setPattern(String pattern) {
+        this.pattern = pattern;
+    }
+}
