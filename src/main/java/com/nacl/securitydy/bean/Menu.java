@@ -1,5 +1,7 @@
 package com.nacl.securitydy.bean;
 
+import java.util.List;
+
 /**
  * @author 赵益江
  * @version 1.0
@@ -8,6 +10,24 @@ package com.nacl.securitydy.bean;
 public class Menu {
     private Integer id;
     private String pattern;
+    private List<Role> roles;
+
+    @Override
+    public String toString() {
+        return "Menu{" +
+                "id=" + id +
+                ", pattern='" + pattern + '\'' +
+                ", roles=" + roles +
+                '}';
+    }
+
+    public List<Role> getRoles() {
+        return roles;
+    }
+
+    public void setRoles(List<Role> roles) {
+        this.roles = roles;
+    }
 
     public Integer getId() {
         return id;

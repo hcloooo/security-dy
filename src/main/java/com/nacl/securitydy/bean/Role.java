@@ -11,14 +11,14 @@ public class Role {
     private Integer id;
     private String name;
     private String nameZh;
-    private List<Menu> menus;
 
-    public List<Menu> getMenus() {
-        return menus;
-    }
-
-    public void setMenus(List<Menu> menus) {
-        this.menus = menus;
+    @Override
+    public String toString() {
+        return "Role{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", nameZh='" + nameZh + '\'' +
+                '}';
     }
 
     public Integer getId() {

@@ -6,12 +6,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.stereotype.Service;
 
 /**
  * @author 赵益江
  * @version 1.0
  * @date 2020/2/11 13:21
  */
+@Service
 public class UserService implements UserDetailsService {
     @Autowired
     UserMapper userMapper;
